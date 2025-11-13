@@ -1,0 +1,26 @@
+{
+  "name": "100x-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyosbekn1n1/100x-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyosbekn1n1/100x-bot/issues"
+  },
+  "homepage": "https://github.com/ilyosbekn1n1/100x-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
